@@ -1,0 +1,4 @@
+Python text to speech : https://pypi.org/project/pyttsx3/
+Python srt file parser : 1. https://pypi.org/project/pysrt/
+                         2. https://pypi.org/project/srt/
+Python google translator : https://pypi.org/project/googletrans/
