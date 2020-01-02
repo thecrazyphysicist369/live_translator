@@ -2,3 +2,14 @@ Python text to speech : https://pypi.org/project/pyttsx3/
 Python srt file parser : 1. https://pypi.org/project/pysrt/
                          2. https://pypi.org/project/srt/
 Python google translator : https://pypi.org/project/googletrans/
+
+Not sure which will yeild better result but will have to consider both the techniques.
+1. Voice Cloning 
+  1. https://paperswithcode.com/paper/transfer-learning-from-speaker-verification
+  2. https://github.com/CorentinJ/Real-Time-Voice-Cloning
+  3. https://google.github.io/tacotron/publications/speaker_adaptation/
+  4. The paper : https://arxiv.org/abs/1806.04558
+
+
+
+2. Voice style transfer
